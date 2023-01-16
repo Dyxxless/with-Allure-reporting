@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/lvkcdvny3l99uxxn?svg=true)](https://ci.appveyor.com/project/Dyxxless/patterns)
+[![Build status](https://ci.appveyor.com/api/projects/status/p92f5p99cd8ynncm?svg=true)](https://ci.appveyor.com/project/Dyxxless/with-allure-reporting)
